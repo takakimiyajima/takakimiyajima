@@ -1,10 +1,10 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my github 🌱🌱🌱
+### Hey <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Welcome to my github 🌱🌱🌱
 
 <a href="https://www.linkedin.com/in/takaki-miyajima/">
   <img alt="Takaki's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/takaki.miyajima/">
-  <img alt="Takaki's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img alt="Takaki's Facebook" width="22px" src="https://user-images.githubusercontent.com/12868082/177059336-ef5098e9-24e6-4a61-b02e-1b5b1aab6fc2.png" />
 </a>
 <a href="https://twitter.com/tkkmyzm">
   <img alt="Takaki's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
