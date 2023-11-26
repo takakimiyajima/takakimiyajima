@@ -1,13 +1,13 @@
 ### Hey <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Welcome to my github 🌱🌱🌱
 
 <a href="https://www.linkedin.com/in/takaki-miyajima/">
-  <img alt="Takaki's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Takaki's LinkedIn" width="22px" src="https://github.com/takakimiyajima/takakimiyajima/assets/12868082/f8a75cc7-374b-464d-943d-99de761d8f6e" />
 </a>
 <a href="https://www.facebook.com/takaki.miyajima/">
-  <img alt="Takaki's Facebook" width="22px" src="https://user-images.githubusercontent.com/12868082/177059336-ef5098e9-24e6-4a61-b02e-1b5b1aab6fc2.png" />
+  <img alt="Takaki's Facebook" width="22px" src="https://github.com/takakimiyajima/takakimiyajima/assets/12868082/1b360def-ce75-497d-952b-16cde6fce872" />
 </a>
 <a href="https://twitter.com/tkkmyzm">
-  <img alt="Takaki's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Takaki's X" width="20px" src="https://github.com/takakimiyajima/takakimiyajima/assets/12868082/140c6b85-31b0-4a21-b5df-666f8585c668" />
 </a>
 
 <br />
